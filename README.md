@@ -1,3 +1,10 @@
+<img width="1881" height="836" alt="ChatGPT Image 15 may 2026, 11_39_06" src="https://github.com/user-attachments/assets/6dc4fad4-fd96-481e-a60f-2d9fe4c22df6" />
+I come from a background in education — a world where clarity, structure and the ability to connect with people matter deeply. That experience shapes the way I think about development: I care about how something feels, not just how it works, and I'm always thinking about the person behind the screen.
+
+I'm especially drawn to interfaces that feel intentional and cohesive — where design supports the experience quietly, and technology stays in the background until it's needed.
+
+Currently building with React, Next.js and TypeScript, and exploring how AI can be used as a thoughtful tool in the development process.
+
 # ¡Hola! 👋 Soy Beatriz Torres
 
 Bienvenido a mi perfil de GitHub. Soy una desarrolladora apasionada por crear soluciones innovadoras y escribir código limpio y eficiente.
@@ -9,52 +16,28 @@ Bienvenido a mi perfil de GitHub. Soy una desarrolladora apasionada por crear so
 - 🎯 Enfocada en resolver problemas complejos
 - 🤝 Colaborativa y comprometida con el trabajo en equipo
 
-## 🛠️ Tecnologías y Herramientas
+---
 
-**Lenguajes de Programación:**
-- JavaScript / TypeScript
-- Python
-- HTML / CSS
-- SQL
+## Stack
 
-**Frameworks y Librerías:**
-- React
-- Node.js
-- Express
-- Django
+`TypeScript` · `Next.js` · `React` · `Node.js` · `MongoDB` · `Tailwind CSS` · `Git`
 
-**Herramientas:**
-- Git & GitHub
-- VS Code
-- Terminal/Bash
-- Docker (básico)
+---
 
-## 📊 Mis Estadísticas de GitHub
+## Featured projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatriztorresgonzalez93&theme=dark&show_icons=true)
+| Project | Description |
+|--------|-------------|
+| [**boda-web**](https://github.com/beatriztorresgonzalez93/boda-web) | Wedding website — guest RSVP, photo uploads, music suggestions, private admin area, MongoDB Atlas & Cloudinary |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztorresgonzalez93&theme=dark&layout=compact)
+*Pin your best repositories on your profile so they appear here.*
 
-## 🎓 Proyectos Destacados
+---
 
-Aquí puedes ver algunos de mis proyectos más interesantes:
+## Contact
 
-- [Proyecto 1](link) - Descripción breve del proyecto
-- [Proyecto 2](link) - Descripción breve del proyecto
-- [Proyecto 3](link) - Descripción breve del proyecto
-
-## 📬 Contacto y Redes Sociales
-
-- 💌 Email: [tu-email@example.com](mailto:tu-email@example.com)
-- 🔗 LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 Twitter: [@tu-usuario](https://twitter.com/tu-usuario)
-- 🌐 Portfolio: [Tu sitio web](https://tu-sitio.com)
-
-## 🎯 Objetivos Actuales
-
-- 📚 Deepening knowledge in [tecnología/área]
-- 🔨 Building more full-stack projects
-- 🌟 Contributing to open source projects
+📧 [beatriztorresgonzalez93@gmail.com](mailto:beatriztorresgonzalez93@gmail.com)  
+🐙 [github.com/beatriztorresgonzalez93](https://github.com/beatriztorresgonzalez93)
 - 🚀 Improving my problem-solving skills
 
 ---
