@@ -5,16 +5,15 @@ I'm especially drawn to interfaces that feel intentional and cohesive — where 
 
 Currently building with React, Next.js and TypeScript, and exploring how AI can be used as a thoughtful tool in the development process.
 
-# ¡Hola! 👋 Soy Beatriz Torres
+## Hi! 👋 I'm Beatriz Torres
 
-Bienvenido a mi perfil de GitHub. Soy una desarrolladora apasionada por crear soluciones innovadoras y escribir código limpio y eficiente.
+Welcome to my GitHub profile. I'm a developer passionate about building new and innovative projects.
 
-## 🚀 Sobre mí
-
-- 💻 Desarrolladora con experiencia en múltiples tecnologías
-- 🌱 Siempre aprendiendo y explorando nuevas herramientas
-- 🎯 Enfocada en resolver problemas complejos
-- 🤝 Colaborativa y comprometida con el trabajo en equipo
+## About me
+💻 Developer with hands-on experience across multiple technologies
+🌱 Always learning and exploring new tools
+🎯 Focused on solving complex problems
+🤝 Collaborative and committed to teamwork
 
 ---
 
@@ -29,19 +28,17 @@ Bienvenido a mi perfil de GitHub. Soy una desarrolladora apasionada por crear so
 | Project | Description |
 |--------|-------------|
 | [**boda-web**](https://github.com/beatriztorresgonzalez93/boda-web) | Wedding website — guest RSVP, photo uploads, music suggestions, private admin area, MongoDB Atlas & Cloudinary |
-
-*Pin your best repositories on your profile so they appear here.*
-
+| readtracker-mobile | Scriptorium — personal library & reading progress (Expo, Firebase, Node/PostgreSQL, Stripe) |
+| life-replay | Daily life journal app — photo, thought, song & mood per day, seasons with AI-written finales, Expo/React Native, camera & gallery, Vercel web |
 ---
 
 ## Contact
 
 📧 [beatriztorresgonzalez93@gmail.com](mailto:beatriztorresgonzalez93@gmail.com)  
 🐙 [github.com/beatriztorresgonzalez93](https://github.com/beatriztorresgonzalez93)
-- 🚀 Improving my problem-solving skills
 
 ---
 
-⭐ Si te gustan mis proyectos, ¡no dudes en darles una estrella! 
+⭐ If you like my projects, feel free to star them!
 
-Gracias por visitar mi perfil 😊
+Thanks for visiting my profile 😊
