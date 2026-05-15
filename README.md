@@ -1,4 +1,4 @@
-<img width="1881" height="836" alt="ChatGPT Image 15 may 2026, 11_39_06" src="https://github.com/user-attachments/assets/6dc4fad4-fd96-481e-a60f-2d9fe4c22df6" />
+<img width="1881" height="570" alt="banner_06" src="https://github.com/user-attachments/assets/5eb13502-0f5c-4970-bfa0-1f585edea345" />
 
 # Hi! 👋 I'm Beatriz Torres
 
